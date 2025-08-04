@@ -8,6 +8,6 @@ class Factorial{
     }
     public static void main(String[]args){
         int n=8;
-        System.out.println("factors of "+n+" is "+compute(n))
+        System.out.println("factors of "+n+" is "+compute(n));
     }
 }

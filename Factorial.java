@@ -7,7 +7,7 @@ class Factorial{
         return res;
     }
     public static void main(String[]args){
-        int n=5;
+        int n=4;
         System.out.println("factors of "+n+" is "+compute(n));
     }
 }

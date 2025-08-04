@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Hello World'
                bat 'javac Factorial.java'
-              bat 'java Fatorial'
+              bat 'java Factorial'
             }
         }
     }
